@@ -15,7 +15,7 @@ const Primer = () => {
           transition={{ delay: 0.1 }}
           className="text-1xl md:text-4xl lg:text-3xl font-bold text-white  text-left"
         >
-          Usaha yang yang jalanki adalah usaha mikro kecil menengah dibidang
+          Usaha yang dijalani adalah usaha mikro kecil menengah dibidang
           kuliner khas daerah Bali bernama Jajebali Bu Dewi. usaha jajebali ini
           kita produksi dari rumah atau yang biasa disebut Homemade, berlokasi
           di Perumahan Kori Nuansa Selatan, Jimbaran
@@ -35,7 +35,7 @@ const Primer = () => {
           transition={{ delay: 0.6 }}
           className="text-1xl md:text-4xl lg:text-3xl font-bold text-white  text-left"
         >
-          Sementara belum ada partner usaha yang ikut untuk mensupport usaha
+          Sementara ini belum ada partner usaha yang ikut untuk mensupport usaha
           kami, tetapi anak anak saya yang membantu untuk promosi usaha kami di
           media sosial. dan juga kami sudah banyak berpartisipasi sebagai
           sponsor di event kampus, seperti contohnya kemarin kampus Instiki
